@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-using UnityEngine.UI; //add UI functionality
+using UnityEngine.UI;
 
 public class TextController : MonoBehaviour {
 
